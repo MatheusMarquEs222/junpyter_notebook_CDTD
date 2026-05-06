@@ -2,3 +2,7 @@ venv/
 __pycache__/
 *.pyc
 .ipynb_checkpoints/
+add_parte2.py
+combinar.py
+separar_notebooks.py
+descrição-trabalho.txt
